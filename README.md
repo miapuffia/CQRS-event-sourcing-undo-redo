@@ -1,4 +1,4 @@
-# CQRS-event-sourcing-undo-redo
+# CQRS event sourcing undo/redo
 Demo project showcasing undo/redo functionality with event sourcing and CQRS.
 
 ## Requirements
